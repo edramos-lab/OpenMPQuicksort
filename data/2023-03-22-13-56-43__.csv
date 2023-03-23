@@ -1,0 +1,13 @@
+N                                                 ,Name                                              ,Time (s)                                          ,Speedup over sequential                           
+100                                               ,Sequential Quick sort                             ,0.000006                                          ,1.000000                                          
+100                                               ,Parallel Quick sort (Tasks)                       ,0.000047                                          ,0.134337                                          
+100                                               ,Parallel Quick sort (Sections)                    ,0.000005                                          ,1.331497                                          
+1000                                              ,Sequential Quick sort                             ,0.000091                                          ,1.000000                                          
+1000                                              ,Parallel Quick sort (Tasks)                       ,0.000102                                          ,0.889880                                          
+1000                                              ,Parallel Quick sort (Sections)                    ,0.000093                                          ,0.978511                                          
+10000                                             ,Sequential Quick sort                             ,0.000936                                          ,1.000000                                          
+10000                                             ,Parallel Quick sort (Tasks)                       ,0.000813                                          ,1.150293                                          
+10000                                             ,Parallel Quick sort (Sections)                    ,0.001369                                          ,0.683613                                          
+100000                                            ,Sequential Quick sort                             ,0.009602                                          ,1.000000                                          
+100000                                            ,Parallel Quick sort (Tasks)                       ,0.004851                                          ,1.979380                                          
+100000                                            ,Parallel Quick sort (Sections)                    ,0.004188                                          ,2.292725                                          
